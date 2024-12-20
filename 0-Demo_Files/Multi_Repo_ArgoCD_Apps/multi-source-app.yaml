@@ -6,11 +6,11 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/SMACAcademy/k8s-main-config.git
+    repoURL: https://github.com/nbudemy/k8s-main-config.git
     targetRevision: main
     path: deploy/production
     sources:
-      - repoURL: https://github.com/SMACAcademy/k8s-additional-config.git
+      - repoURL: https://github.com/nbudemy/k8s-additional-config.git
         targetRevision: main
         path: config
   destination:

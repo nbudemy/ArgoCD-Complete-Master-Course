@@ -3,7 +3,7 @@
 
 ## K8s files and Apps 
 
-https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course.git
+https://github.com/nbudemy/ArgoCD-Complete-Master-Course.git
 
 - 0-Demo_Files/Demo_ConfigMap
 - 0-Demo_Files/Demo_Deployment
@@ -23,6 +23,6 @@ https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course.git
 
 ## Other Repo List
 
-https://github.com/SMACAcademy/k8s-main-config.git
+https://github.com/nbudemy/k8s-main-config.git
 
 - deploy/production
